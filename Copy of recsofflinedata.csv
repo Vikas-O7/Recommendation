@@ -1,0 +1,9 @@
+# RECSRecommendations Upload File,,,,,,,,,,,,,
+# RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,,,,,
+# RECS,,,,,,,,,,,,,
+# RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,,,,,
+# RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,
+# RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.class,entity.origin,entity.originhref,entity.destination,entity.destinationhref
+BLR,Bengaluru from œXXX,,"A beautiful garden city brimming with colour, culture and creativity.",/content/dam/vaa/target/recs/card-images/blr-desktop.jpg,,https://flights.virginatlantic.com/en/flights-to-bengaluru,,,,,,,
+BOM ,Mumbai from œ485,,"From the Gateway of India to the hustle and bustle of Fashion Street market, there's plenty to discover.",/content/dam/vaa/target/recs/card-images/bom-desktop.jpg,,https://flights.virginatlantic.com/en-gb/flights-to-mumbai,,,,,,,
